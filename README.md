@@ -1,2 +1,3 @@
 # Louplus-Python-Code
 楼+python学习日常代码
+Git 操作其实很简单，只需多加练习，在实际应用中逐渐领悟它的设计哲学。
